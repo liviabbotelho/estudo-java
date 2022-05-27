@@ -1,5 +1,5 @@
 # Estudo-java
-## Repositório para adicionar exercícios e trabalhos que fiz aprendendo a linguagem java e orientação a objetos. Código feitos utilizando a linguagem Java e IntelliJ IDEA.Commits em andamento.
+## Repositório para compilar exercícios e trabalhos que fiz aprendendo a linguagem java e orientação a objetos. Em cada pasta tem um pdf com a descrição da atividade e objetivo. Código feitos utilizando a linguagem Java e IntelliJ IDEA.
 
 
 ### Conta-Bancaria: 
@@ -16,3 +16,5 @@
 
 ### Busca-Linguagens-Streams: 
 #### Mesmo programa de busca de linguagens porém utilizando streams API para uma melhor performance.
+
+## Commits ainda em andamento.
