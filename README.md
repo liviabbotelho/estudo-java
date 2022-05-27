@@ -1,6 +1,5 @@
-# estudo-java
-## Repositório para adicionar exercícios que fiz aprendendo a linguagem java, commits em andamento.
-## Código feitos utilizando a linguagem Java e IntelliJ IDEA.
+# Estudo-java
+## Repositório para adicionar exercícios que fiz aprendendo a linguagem java, commits em andamento. Código feitos utilizando a linguagem Java e IntelliJ IDEA.
 
 
 ### Conta-Bancaria: 
