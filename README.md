@@ -1,5 +1,5 @@
 # estudo-java
-## Repositório para adicionar exercícios que fiz aprendendo a linguagem java, adições em andamento.
+## Repositório para adicionar exercícios que fiz aprendendo a linguagem java, commits em andamento.
 
 
 ### Conta-Bancaria: 
