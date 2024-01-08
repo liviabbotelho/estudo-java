@@ -1,5 +1,5 @@
 # Estudo-java
-## Repositório para compitar exercícios e trabalhos que fiz aprendendo a linguagem java e orientação a objetos. Em cada pasta tem um pdf com a descrição da atividade e objetivo. Código feitos utilizando a linguagem Java e IntelliJ IDEA.
+## Repositório com exercícios e trabalhos que fiz aprendendo a linguagem java e orientação a objetos. Em cada pasta tem um pdf com a descrição da atividade e objetivo. Código feitos utilizando a linguagem Java e IntelliJ IDEA.
 
 
 ### Conta-Bancaria: 
